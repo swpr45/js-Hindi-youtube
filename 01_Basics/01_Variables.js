@@ -7,8 +7,9 @@ accontCity = "Pune"
 accountEmail = "sk@gmail.com"
 accountPassword = "21466145"
 accountCity = "Jalgoan"
+let accountState;
 /*Prefer not to use var
 because of issue in block */
 console.log(accountId)
 /*using this we can print all variables value in table format and at one time */
-console.table([accountEmail,accountPassword,accontCity])
+console.table([accountEmail,accountPassword,accontCity,accountState])
