@@ -16,6 +16,8 @@
 
 //   let isLoggedIn = 2
 //   let booleanIsLoggedIn = Boolean(isLoggedIn)
+//for practice uncomment the code previous code
+
 //   console.log(booleanIsLoggedIn);
   /*
   * 1(any non-zero number) => true
