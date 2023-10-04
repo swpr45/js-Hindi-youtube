@@ -18,3 +18,5 @@ console.log(""+null);
 console.log(0+null);
 console.log(null * 3)
 console.log(("*")*4)
+// In javascript,while we performing mathematical operations of two or more different data types
+//then we would not getting results that we expected so be careful while performing it ok... 
