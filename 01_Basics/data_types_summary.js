@@ -14,6 +14,7 @@ const anotherId = Symbol('123')
 console.log(id==anotherId)
 //here "===" use to check content as well as address also
 console.log(id===anotherId)
+console.log(typeof userEmail)
 
 
 
@@ -42,3 +43,4 @@ const myFunction = function(){
 //If we want to know type of variable or value then use 'typeof'
 
 console.log(typeof myFunction);
+console.log(id)
