@@ -44,3 +44,20 @@ const myFunction = function(){
 
 console.log(typeof myFunction);
 console.log(id)
+//+++++++++++++++++++++++++++++++++++++++++++++
+//Stack (Primitive),Heap (Non-Primitive)
+
+let myYoutubename = "ChaiAurCode"
+let anotherName = myYoutubename
+anotherName = "CopyCode"
+console.log(anotherName)
+console.log(myYoutubename)
+
+let user = {
+    email:"swpr45@gmai.com",
+    upi: "user@ybl"
+}
+let userTwo=user
+userTwo.email = "hitesh@gmail.com"
+console.log(user.email);
+console.log(userTwo.email);
